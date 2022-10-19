@@ -1,0 +1,24 @@
+.login-CreateAcct{
+    margin-left: 90em;
+}
+
+#nav-barBrand{
+    width:40px;
+    height: 40px;
+}
+
+.heroImage{
+    width: 100vw;
+}
+
+.heroMessage{
+    position: absolute;
+}
+
+.contain{
+    background-image: url("https://images2.alphacoders.com/108/1085778.jpg");
+}
+.card-img-top{
+    width: 286px;
+    height: 300px;
+}
